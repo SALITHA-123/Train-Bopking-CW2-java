@@ -1,0 +1,45 @@
+Simulation Report
+
+Num of passengers - 3
+average - 22
+max line - 3
+max stay - 36
+min stay - 7
+
+
+Simulation Report
+
+Num of passengers - 3
+average - 17
+max line - 3
+max stay - 28
+min stay - 8
+
+
+Simulation Report
+
+Num of passengers - 3
+average - 5
+max line - 1
+max stay - 13
+min stay - 1
+
+
+Simulation Report
+
+Num of passengers - 2
+average - 6
+max line - 2
+max stay - 10
+min stay - 2
+
+
+Simulation Report
+
+Num of passengers - 2
+average - 18
+max line - 2
+max stay - 26
+min stay - 10
+
+
